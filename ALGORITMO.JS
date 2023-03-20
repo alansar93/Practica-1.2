@@ -1,0 +1,23 @@
+document.querySelector("body").innerHTML = `
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pr9KPEMJwE8" title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen></iframe>
+
+    <iframe
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26264.356277796844!2d-58.435174399999994!3d-34.62831485!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcca440ec19097%3A0x30b34282ae8fae18!2sParque%20Rivadavia!5e0!3m2!1ses!2sar!4v1679323267316!5m2!1ses!2sar"
+        width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+    <iframe style="border-radius:12px"
+        src="https://open.spotify.com/embed/track/2bWzlW7v7jQlZF8MQ5bWGb?utm_source=generator&theme=0" width="100%"
+        height="352" frameBorder="0" allowfullscreen=""
+        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+    <iframe id="_hjSafeContext_70318965" title="_hjSafeContext" tabindex="-1" aria-hidden="true" src="about:blank"
+        style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe>
+
+    <iframe height="500px" width="1000px" src="https://lapaginamillonaria.com" frameborder="0"></iframe>
+    <p>pagina river</p>
+    `
+    
